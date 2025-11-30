@@ -1,0 +1,6 @@
+{
+  "name": "Jekyll",
+  "image": "mcr.microsoft.com/devcontainers/ruby:3.2",
+  "forwardPorts": [4000],
+  "postCreateCommand": "gem install jekyll bundler"
+}
