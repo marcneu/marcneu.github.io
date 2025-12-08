@@ -5,10 +5,15 @@ title: About
 
 ## About
 
-### Bio
-
-Hi, I'm Marc, an Electrical Engineer and 3rd year PhD Student with Jürgen Becker at KIT in Karlsruhe, Germany. Based just at the foothills of the Black Forest, I enjoy mountaineering, mushroom hunting, or skiing (when the weather is right). 
-Occasionally, I also enjoy optimizing deployment techniques for embedded systems based on FPGAs, CGRAs, and SoCs. I am fortunate, that some of my work has been used for the Belle II Detector in Tsukuba, Japan. On my journey, I have learned one thing or another which I will be sharing on here for y'all. 
+<div style="display: flex; gap: 2rem; align-items: flex-start; flex-wrap: wrap;">
+  <div style="flex: 0 0 210px;">
+    <img src="/public/me.jpg" alt="Image" width="210" style="border-radius: 8px;">
+  </div>
+  <div style="flex: 1; min-width: 300px;">
+    <p>Hi, I'm Marc, an Electrical Engineer and 3rd year PhD Student with Jürgen Becker at KIT in Karlsruhe, Germany. Based just at the foothills of the Black Forest, I enjoy mountaineering, mushroom hunting, or skiing (when the weather is right).</p>
+    <p>Occasionally, I also enjoy optimizing deployment techniques for embedded systems based on FPGAs, CGRAs, and SoCs. I am fortunate, that some of my work has been used for the Belle II Detector in Tsukuba, Japan. On my journey, I have learned one thing or another which I will be sharing on here for y'all.</p>
+  </div>
+</div>
 
 ---
 
