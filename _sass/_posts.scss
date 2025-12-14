@@ -12,16 +12,22 @@
   }
 }
 
+.post-link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
 .post {
   padding: 1rem 1.5rem;
   border-radius: 0.375rem;
   transition: all 0.2s ease-in-out;
+}
 
-  &:hover {
-    background-color: rgba(0, 0, 0, 0.05);
-    transform: translateY(-1px);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-  }
+.post-link:hover .post {
+  background-color: rgba(0, 0, 0, 0.05);
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
 // Blog post or page title
@@ -39,7 +45,7 @@
 
   &:hover,
   &:focus {
-    text-decoration: underline;
+    text-decoration: none;
   }
 }
 
