@@ -77,7 +77,6 @@ void dense(hls::stream<array<input_t,F_IN>> &inputStream,
 Instantiating this template is straightforward:
 
 ```c++
-
 static const int II = 1;
 static const int INPUT_WIDTH = 32;
 static const int OUTPUT_WIDTH = 32;
@@ -116,7 +115,6 @@ void dut(hls::stream<array<input_t, INPUT_WIDTH>> &inputStream,
 Writing a unit test is equally simple. I generated the golden reference values using a Python model:
 
 ```c++
-
 #include <iostream>
 #include "dut.h"
 
