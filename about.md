@@ -28,7 +28,7 @@ title: About
     </div>
     <div class="contact-info">
       <h4>Email</h4>
-      <a href="mailto:marc.neu@gmx.net">marc.neu@gmx.net</a>
+      <a href="mailto:mail@marcneu.com">mail@marcneu.com</a>
     </div>
   </div>
 
